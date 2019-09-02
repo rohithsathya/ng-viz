@@ -62,7 +62,7 @@
          * @return {?}
          */
         function () {
-            console.log("test");
+            console.log("test ng viz lib");
             console.log(d3.max([1, 2, 3]));
         };
         NgVizBarChartComponent.decorators = [
