@@ -1,0 +1,22 @@
+{
+  "name": "ng-viz",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.4",
+    "@angular/core": "^8.2.4",
+    "d3": "^5.11.0"
+  },
+  "main": "bundles/ng-viz.umd.js",
+  "module": "fesm5/ng-viz.js",
+  "es2015": "fesm2015/ng-viz.js",
+  "esm5": "esm5/ng-viz.js",
+  "esm2015": "esm2015/ng-viz.js",
+  "fesm5": "fesm5/ng-viz.js",
+  "fesm2015": "fesm2015/ng-viz.js",
+  "typings": "ng-viz.d.ts",
+  "metadata": "ng-viz.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
