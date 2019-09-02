@@ -59,6 +59,7 @@ var NgVizBarChartComponent = /** @class */ (function () {
      * @return {?}
      */
     function () {
+        console.log("test");
         console.log(max([1, 2, 3]));
     };
     NgVizBarChartComponent.decorators = [

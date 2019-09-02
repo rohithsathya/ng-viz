@@ -52,6 +52,7 @@ class NgVizBarChartComponent {
      * @return {?}
      */
     ngOnInit() {
+        console.log("test");
         console.log(max([1, 2, 3]));
     }
 }
