@@ -11,6 +11,7 @@ export class NgVizBarChartComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log("test");
     console.log(d3.max([1,2,3]));
   }
 
